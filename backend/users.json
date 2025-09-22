@@ -1,0 +1,44 @@
+{
+  "user_1737588000000": {
+    "id": "user_1737588000000",
+    "username": "demo",
+    "phoneNumber": "+254712345678",
+    "password": "demo123",
+    "points": 100,
+    "referralCode": "PPDEMO01",
+    "referredBy": null,
+    "bonusBalance": 0,
+    "isActivated": true,
+    "pendingActivation": false,
+    "hasUsedFreeSpin": false,
+    "createdAt": "2025-01-22T14:00:00.000Z"
+  },
+  "user_1737588000001": {
+    "id": "user_1737588000001",
+    "username": "test",
+    "phoneNumber": "+254712345679",
+    "password": "test123",
+    "points": 50,
+    "referralCode": "PPTEST01",
+    "referredBy": null,
+    "bonusBalance": 0,
+    "isActivated": true,
+    "pendingActivation": false,
+    "hasUsedFreeSpin": false,
+    "createdAt": "2025-01-22T14:00:00.000Z"
+  },
+  "user_1737588000002": {
+    "id": "user_1737588000002",
+    "username": "admin",
+    "phoneNumber": "+254712345680",
+    "password": "admin123",
+    "points": 200,
+    "referralCode": "PPADMIN1",
+    "referredBy": null,
+    "bonusBalance": 100,
+    "isActivated": true,
+    "pendingActivation": false,
+    "hasUsedFreeSpin": false,
+    "createdAt": "2025-01-22T14:00:00.000Z"
+  }
+}

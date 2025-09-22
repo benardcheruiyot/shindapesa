@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle background ring -->
+    <path
+        android:fillColor="#20000000"
+        android:pathData="M54,10a44,44 0 1,0 0,88a44,44 0 1,0 0,-88z" />
+
+    <!-- Group for S and accent, scaled down ~0.82 around center (54,54) -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.82"
+        android:scaleY="0.82">
+        <!-- Stylized S path -->
+        <path
+            android:strokeColor="@color/ic_launcher_foreground_tint"
+            android:strokeWidth="10"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="#00000000"
+            android:pathData="M28,36c8,-10 44,-12 52,4c6,12 -6,20 -16,24c-10,4 -22,8 -20,16c2,8 20,10 32,2" />
+
+        <!-- Accent dot -->
+        <path
+            android:fillColor="@color/ic_launcher_accent"
+            android:pathData="M78,28a6,6 0 1,0 0,12a6,6 0 1,0 0,-12z" />
+    </group>
+</vector>
