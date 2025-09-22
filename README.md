@@ -1,6 +1,10 @@
 # ShindaPesa - Production-Ready M-Pesa Mobile App
 
-## 🚀 Project Overview
+## � Development Branch Features
+
+This development branch includes enhanced features and improvements for better performance and user experience.
+
+## �🚀 Project Overview
 
 ShindaPesa is a React Native mobile application with M-Pesa STK Push integration for account activation and payments. The app is **fully production-ready** and includes comprehensive documentation for Safaricom production approval.
 
